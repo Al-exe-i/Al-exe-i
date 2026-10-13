@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Backend, built with intention.</title>
+  <desc id="description">Python, APIs, data. An infinity loop made of binary digits on a deep navy background.</desc>
+  <rect width="960" height="360" rx="16" fill="#0B1220"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="48" y="112" fill="#F2F6FC" font-size="66" font-weight="650" letter-spacing="-1.8">Backend, built</text>
+    <text x="48" y="191" fill="#F2F6FC" font-size="66" font-weight="650" letter-spacing="-1.8">with intention.</text>
+    <text x="50" y="297" fill="#9BAEC4" font-size="54" font-weight="400">Python · APIs · Data</text>
+  </g>
+  <path d="M50 233H570" stroke="#273449" stroke-width="2"/>
+  <g aria-hidden="true" fill="#49DCC3" font-family="Consolas, Courier New, monospace" font-size="24" font-weight="600" text-anchor="middle">
+    <text x="889.9" y="193.3">0</text>
+    <text x="887.2" y="214.7">1</text>
+    <text x="880.0" y="235.0">0</text>
+    <text x="865.5" y="250.2">1</text>
+    <text x="844.6" y="251.7">0</text>
+    <text x="825.2" y="242.6">1</text>
+    <text x="808.0" y="229.4">0</text>
+    <text x="792.3" y="214.9">1</text>
+    <text x="777.1" y="199.6">0</text>
+    <text x="762.3" y="184.1">1</text>
+    <text x="747.4" y="168.7">0</text>
+    <text x="732.0" y="153.7">1</text>
+    <text x="715.5" y="139.7">0</text>
+    <text x="697.4" y="128.1">1</text>
+    <text x="676.8" y="123.0">0</text>
+    <text x="658.1" y="132.3">1</text>
+    <text x="647.7" y="151.0">0</text>
+    <text x="643.0" y="171.8">1</text>
+    <text x="642.1" y="193.3">0</text>
+    <text x="644.8" y="214.7">1</text>
+    <text x="652.0" y="235.0">0</text>
+    <text x="666.5" y="250.2">1</text>
+    <text x="687.4" y="251.7">0</text>
+    <text x="706.8" y="242.6">1</text>
+    <text x="724.0" y="229.4">0</text>
+    <text x="739.7" y="214.9">1</text>
+    <text x="784.6" y="168.7">0</text>
+    <text x="800.0" y="153.7">1</text>
+    <text x="816.5" y="139.7">0</text>
+    <text x="834.6" y="128.1">1</text>
+    <text x="855.2" y="123.0">0</text>
+    <text x="873.9" y="132.3">1</text>
+    <text x="884.3" y="151.0">0</text>
+    <text x="889.0" y="171.8">1</text>
+  </g>
+</svg>
